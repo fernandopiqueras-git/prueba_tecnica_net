@@ -1,0 +1,6 @@
+@EsettApiProject_HostAddress = http://localhost:5203
+
+GET {{EsettApiProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
